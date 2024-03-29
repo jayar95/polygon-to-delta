@@ -1,0 +1,9 @@
+target
+Cargo.lock
+
+.cargo/config.toml
+.cargo/config
+
+delta
+.env
+.idea
